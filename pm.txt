@@ -5,5 +5,6 @@ pink
 orange
 blue
 green
+indigo
 red
 estas sao as cores
